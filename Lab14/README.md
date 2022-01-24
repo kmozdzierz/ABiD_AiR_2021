@@ -1,3 +1,15 @@
+# Laboratorium Analiza i Bazy danych
+
+## Ćwiczenie 14 - Pytest
+### **Imię i Nazwisko:** Kacper Moździerz
+
+### **Numer albumu:** 401733
+
+### **Data ćwiczeń:** 21.01.2022r., 13:00 - 14:30
+
+
+
+
 # TDD
 Test Driven Development(TDD) to podejście do tworzenia oprogramowania, które zakłada, że przed napisaniem właściwej funkcjonalności, zaczynamy od utworzenia testu. Test ten powinien testować funkcjonalność, którą dopiero chcemy napisać.
 
